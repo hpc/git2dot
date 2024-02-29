@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 r'''
 Tool to visualize a git repository using the graphviz dot tool.
 
